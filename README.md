@@ -4,9 +4,9 @@ This is a console game "Cows and Bulls" with tkinter. Input: 4-digit number. If 
 
 # Rules and important things:
 
-•	The number to be guessed must be a 4 digit number, using only digits from 1 - 9, each digit atmost once.;
+•	The number to be guessed must be a 4 digit number, using only digits from 1 - 9, each digit atmost once;
 
-•	For every guess that the player makes, he gets 2 values - the number of cows and the number of bulls.;
+•	For every guess that the player makes, he gets 2 values - the number of cows and the number of bulls;
 
 •	The player gets unlimited chances to guess the entire number;
 
