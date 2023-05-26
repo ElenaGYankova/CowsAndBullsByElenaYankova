@@ -14,6 +14,8 @@ This is a console game "Cows and Bulls" with tkinter. Input: 4-digit number. If 
 
 •	Also "Enter" key work as "Guess" button;
 
+•	Disclaimer: You can't run the game throug your phone;
+
 # Example screenshots from the game:
 
 ![Screenshot 2023-05-26 124619](https://github.com/ElenaGYankova/RockPaperScissorsByElenaYankova/assets/122468758/480d6cb8-4bb3-49af-b975-50df8315ec17)
