@@ -1,6 +1,6 @@
 ![cows and bulls](https://github.com/ElenaGYankova/RockPaperScissorsByElenaYankova/assets/122468758/03684e95-7b61-429c-a15f-67a481e25ca6)
-# Cows And Bulls By Elena Yankova 🐍
-This is a console game "Cows and Bulls" with tkinter. This is console game for one player. Input: 4-digit number. If the player write wrong input, it'll open window with "Invalid guess" an "Please enter a 4-digit number". Output: Cows: 0, Bulls: 4.
+# Cows and Bulls by Elena Yankova 🐍
+This is a console game "Cows and Bulls" with tkinter. Input: 4-digit number. If the player write wrong input, it'll open a window with "Invalid guess" and "Please enter a 4-digit number". Output: Cows: 0, Bulls: 4.
 
 # Rules and important things:
 
